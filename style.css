@@ -1,0 +1,38 @@
+body{
+    font-family: 'Red Hat Display', sans-serif;
+}
+td {
+    text-transform: uppercase;
+}
+
+
+h4,
+h5 {
+    text-align: center;
+}
+
+#boundary {
+    background-color: rgb(196, 229, 248);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#download, #color-picker-background, #edit{
+    padding: 10px;
+    margin: 10px;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+.upperPart{
+    width: 1310px;
+    margin:auto;
+    border-style: solid;
+}
+
+#generateBtn{
+    margin: 10px;
+}
+
